@@ -1,0 +1,40 @@
+header #anh{
+    
+    padding-left: 10px;
+    padding-top: 30px;  
+}
+
+header #top > h1 {
+    color: #000000;
+}
+nav {
+    background: #6633ff;
+}
+nav > #home > ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+    }
+    nav  #home > ul > li{
+         float: left;
+    }
+    nav > #home > ul > li > a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    }
+        #cp {
+      
+        text-align: center;
+        margin: auto;
+        background: #00cccc;
+           
+    }
+    #list {
+        list-style-type: none;
+        text-decoration: none;
+    }
